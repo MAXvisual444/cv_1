@@ -1,0 +1,33 @@
+body {
+  color: #40514E;
+  background-color: #E6E6E6;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+hr {
+  border: dotted #D8E3E7 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+h1 {
+  color: #5C7AEA;
+  padding-bottom: 30px;
+}
+
+.box_1 {
+
+  position: relative;
+  padding-top: 150px;
+  overflow: auto;
+}
+
+.box_2 {
+
+  position: relative;
+  overflow: auto;
+}
